@@ -4,8 +4,8 @@
 
 Understanding which employees are likely to be promoted helps HR teams make fair, data-backed decisions. In this project, I built and compared three machine learning models—Logistic Regression, Decision Tree, and KNN—to predict promotion eligibility using employee performance, training, education, and other HR factors.
 
-**What you will find in this project?
-**
+**What you will find in this project?**
+
 EDA- Department-level promotion trends, education impact, KPI completion analysis
 Data Prep- Missing values handled, one-hot encoded categoricals, scaled numerics
 Modeling- Logistic Regression, Decision Tree, KNN pipelines with GridSearchCV tuning
